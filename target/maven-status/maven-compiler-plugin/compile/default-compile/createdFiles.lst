@@ -1,9 +1,0 @@
-library\ReadProperties.class
-library\Browser.class
-pages\GiftCardsPage.class
-pages\CabsPage.class
-Reports\ExtentReportsPage.class
-library\UseProperties.class
-library\ReusableMethods.class
-library\ScreenShot.class
-pages\HotelsPage.class
